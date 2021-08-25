@@ -1,4 +1,4 @@
-name: do it
+name: doit
 on: [push]
 jobs:
   install wandb:
