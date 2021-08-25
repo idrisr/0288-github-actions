@@ -1,7 +1,7 @@
 name: doit
 on: [push]
 jobs:
-  install wandb:
+  installwandb:
     runs-on: ubuntu-latest
     steps:
       - run: pip install wandb
